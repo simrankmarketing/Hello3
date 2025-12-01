@@ -1,0 +1,199 @@
+---
+title: "Website Analytics Report"
+subtitle: "Nov 1 – Nov 30"
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: cosmo
+author: "Simran Kaur"
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## **Analytics Highlights Overview**
+
+Website Analytics Report from Nov 1 – Nov 30
+
+![](6820756.png){fig-align="left" width="101"}
+
+During the last 30 days, your website recorded:
+
+-   Total Sessions: 27
+
+-   Unique Visitors: 19
+
+-   New Visitors: 100%
+
+-   Returning Visitors: 0%
+
+-   Avg Session Duration: 1m 58s
+
+-   Pages per Session: 1.6
+
+-   Bounce Rate: 55.6%
+
+→ **Compared to the previous period, overall site engagement remains low, which is normal for a newly launched website with limited content and minimal promotion.**
+
+## **Traffic Insights**
+
+![](istockphoto-1163619080-612x612.jpg){width="100"} → Sessions stayed between 0–5 visits per day, with no major spikes.
+
+![](images/Screenshot%202025-11-30%20233103.png){fig-align="center" width="516"}
+
+→ This indicates that traffic is arriving sporadically—most likely from Direct visits, Shares/own testing, and Occasional social/profile clicks
+
+![](images/Screenshot%202025-11-30%20154758.png){fig-align="center" width="294"}
+
+![](web-apps-icon-16.png){width="83"} **Device Breakdown Sessions**
+
+![](images/Screenshot%202025-11-30%20154519-01.png){fig-align="center" width="584"}
+
+-   20 unique visitors
+
+-   Mobile: 79% (22 sessions)
+
+-   Desktop: 22% (6 sessions)
+
+→ The website is primarily accessed through mobile devices.
+
+![](5332760.png){width="86"} **Geographic Insights Sessions by Country**
+
+![](images/Screenshot%202025-11-30%20233247-02.png){fig-align="center" width="569"}
+
+-   United States: 22
+
+-   Armenia: 3
+
+-   Brazil: 1
+
+-   Germany: 1
+
+-   Mexico - 1
+
+→The audience is currently U.S.-dominant, with a few international visits. This distribution is typical for early-stage websites discovered through networking and social activity.
+
+## **Behavior & Engagement Insights**
+
+![](employee-engagement-survey-icon-assessment-icon-signifies-employee-engagement-survey-assessment-352798911.jpg){width="79"} **Engagement Metrics**
+
+![](images/Screenshot%202025-11-30%20235753.png)
+
+-   A **1:58 average duration** is strong for a new website with few pages—visitors are staying long enough to read.
+
+-   **1.6 pages per session** means most users explore at least one additional page beyond the landing page.
+
+-   A **57.1% bounce rate** is moderate and typical for early-stage blogs.\
+
+    → Traffic from mobile and social tends to have higher bounce rates, so this is within a normal range.
+
+![](13099143.png){width="96"} **Pages Performance**
+
+![](images/Screenshot%202025-12-01%20000442-01.png){fig-align="center" width="567"}
+
+-   The **homepage** is the most visited entry point, as expected.
+
+-   The **blog page** is performing strongly, indicating real interest in content.
+
+-   The article **“Did women ruin the workplace?”** is your top-performing individual blog post—this shows people click on opinion/editorial-style posts.
+
+-   The **contact page** receiving 7 visits is notable: users are actively checking for ways to reach out → good sign for conversion potential.
+
+![](648917.png){width="80"} **Navigation Flow**
+
+![](images/Screenshot%202025-12-01%20001649.png){fig-align="center" width="1050"}
+
+-   Most visitors enter through the **homepage (41%)** and **blog (33%)**, showing these are your strongest discovery points.
+
+-   The **homepage → contact** path is the clearest user journey, indicating a strong interest in learning more or reaching out.
+
+-   About **55% drop off after the homepage**, which is normal for a small, new site.
+
+-   Visitors rarely move beyond **3 steps**, reflecting limited page depth.
+
+-   Blog visitors don’t navigate further, showing a need for stronger **internal links** or **calls-to-action**
+
+![](2680985.png){width="80"}**Form submissions**
+
+![](images/Screenshot%202025-11-30%20155453x.png){fig-align="center" width="703"}
+
+**Total submissions:** 3\
+**Leads received:** 3
+
+-   → With only 27 sessions, receiving **3 form submissions** is very strong. This is an **11% conversion rate**, which is excellent for a brand-new site.
+
+Improvement suggestion:
+
+-   <div>
+
+    -   A more visible CTA
+
+    -   A follow-up thank-you or email automation
+
+    -   A small incentive to continue capturing early leads
+
+    </div>
+
+## **Blog Analytics**
+
+![](1809216.png){fig-align="left" width="113"}
+
+![](images/Screenshot%202025-12-01%20004633.png){fig-align="center" width="666"}
+
+![](images/Screenshot%202025-12-01%20005331-01.png){fig-align="center"}
+
+-   The blog received **11 total views** and **5 unique visitors**, which is a healthy start for a new site.
+
+-   Visitors looked at **multiple posts**, showing curiosity rather than single-page bounces.
+
+-   Engagements are **0**, meaning users are reading but not interacting yet (normal for early stages).
+
+-   Daily views were **spread across the month**, showing slow but steady discovery instead of one-day spikes.
+
+-   Views happened at **varied times of day**, with no clear peak reading window yet.
+
+-   Traffic likely comes from **social links or internal navigation**, not search engines (yet).
+
+**![](images/clipboard-3561843282.png){width="80"}Individual Post Performance**
+
+![](images/Screenshot%202025-11-30%20155802.png)
+
+**1. Did Women Ruin the Workplace? My Take on the NY Times Article**
+
+-   Published Nov 21
+
+-   Views: 4
+
+-   Clicks: 1
+
+-   Avg Reading Time: 28s
+
+\
+→This is the highest-engagement post. Opinion/editorial content is resonating most with the audience and attracts the longest dwell time.
+
+**2. The Role of Visual Storytelling in Digital Advertisements**
+
+-   Published Nov 20
+
+-   Views: 3
+
+-   Clicks: 0
+
+-   Avg Reading Time: 28s\
+
+→Strong interest for a niche topic. Visitors are reading but not clicking through further.
+
+**3. The Myth of the “Superhuman” Digital Marketer: Why Integration Matters More Than Wearing Every Hat**
+
+-   Published Nov 8
+
+-   Views: 4
+
+-   Clicks: 0
+
+-   Avg Reading Time: 52s
+
+\
+→This post has the longest reading time, suggesting high relevance and strong content depth.
