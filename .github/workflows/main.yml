@@ -1,0 +1,24 @@
+name: Quarto Publish
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history so that all tags are available
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Publish to Quarto Pub
+        run: quarto publish quarto-pub
+        env:
+          QUARTO_PUB_AUTH_TOKEN: ${{ qpa_pUmsM98JBxDtPIQs68U3QImtlrP5dArvjIMfHFNFW2JpdDw51ClxDU0xsxcjYv9K }}
